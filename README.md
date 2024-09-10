@@ -65,7 +65,7 @@ Currently pursuing a **Bachelor of Science in Computer Science** at the Universi
 ---
 
 ## 👨‍🏫 **Experience as a Mathematics Tutor**
-With over 6 years of tutoring experience, I specialize in helping students master mathematics concepts across levels. I focus on building student confidence and teaching effective problem-solving strategies in subjects like:
+With over 7 years of tutoring experience, I specialize in helping students master mathematics concepts across levels. I focus on building student confidence and teaching effective problem-solving strategies in subjects like:
 - Algebra, Calculus (AB & BC), Linear Algebra, Multivariable Calculus, Discrete Mathematics
 
 ---
