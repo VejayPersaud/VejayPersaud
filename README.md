@@ -4,7 +4,7 @@ I'm an enthusiastic **Software Engineering** student, aspiring **Data Engineer**
 
 Currently pursuing a **Bachelor of Science in Computer Science** at the University of Florida, I have hands-on experience with software engineering practices, data structures, programming fundamentals, and VR Development in Unity3D. My strong foundation in **problem-solving** and **communication** helps me approach every project with a focus on collaboration and continuous learning.
 
-Fun Fact: Lethal Company is one of my favorite games!
+
 ![Pixel art of Lethal Company](averagelethalsession.gif)
 
 ### 🎯 **Current Areas of Focus**:
