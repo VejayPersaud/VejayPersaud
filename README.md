@@ -82,4 +82,4 @@ I'm actively seeking internships and part-time roles in **software engineering**
 
 [LinkedIn](https://www.linkedin.com/in/vejay-persaud/) • [Portfolio](https://vptestsite781484473.wordpress.com/portfolio/) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VejayPersaud&show_icons=true&theme=radical)
