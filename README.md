@@ -21,7 +21,7 @@ Currently pursuing a **Bachelor of Science in Computer Science** at the Universi
 
 ## 📂 **Highlighted Projects**
 
-### [1. Data Science Final Project](https://github.com/your-username/project1)
+### [1. Data Science Final Project]([https://github.com/your-username/project1](https://github.com/VejayPersaud/ucimlrepo))
 **Tech Stack**: Python, Scikit-learn, Pandas, R  
 - Evaluated and compared the performance of multiple machine learning models (Neural Networks, SVM, Random Forest, KNN) using metrics such as accuracy, precision, and recall.
 - Led dataset selection and conducted hyperparameter tuning for optimizing model performance.
