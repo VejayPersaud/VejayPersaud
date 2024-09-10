@@ -4,6 +4,9 @@ I'm an enthusiastic **Software Engineering** student, aspiring **Data Engineer**
 
 Currently pursuing a **Bachelor of Science in Computer Science** at the University of Florida, I have hands-on experience with software engineering practices, data structures, programming fundamentals, and VR Development in Unity3D. My strong foundation in **problem-solving** and **communication** helps me approach every project with a focus on collaboration and continuous learning.
 
+Fun Fact: Lethal Company is one of my favorite games!
+![Pixel art of Lethal Company](https://tenor.com/view/averagelethalsession-gif-9111185124938296846)
+
 ### 🎯 **Current Areas of Focus**:
 - **Software Engineering**: Gaining experience in using Jaeger to trace microservice architecture performance for web applications.
 - **Data Engineering**: Learning how to design and optimize data pipelines and work with large datasets.
@@ -27,14 +30,14 @@ Currently pursuing a **Bachelor of Science in Computer Science** at the Universi
 - Led dataset selection and conducted hyperparameter tuning for optimizing model performance.
 - Worked with data preprocessing, transformation, and statistical analysis.
 
-### [2. Software Engineering Project: Probooker](https://github.com/your-username/project2)
+### [2. Software Engineering Project: Probooker](https://github.com/VejayPersaud/ProBooker)
 **Tech Stack**: JavaScript, HTML, CSS, Node.js, SQL  
 - Participated in a remote group project to develop a full-stack web application, utilizing **Node.js**.
 - Followed **SCRUM** and **AGILE** methodology with two week sprints, daily stand-ups, and backlogs using remote collaboration tools like Figma Jam, Zoom, and Jira to deliver features on time.
 - Practiced **DevOps** with continuous integration and deployment pipelines using GitHub Actions.
 - Designed and implemented database functionality using **SQL** for efficient data management and retrieval.
 
-### [3. Sorting Algorithm Visualizer](https://github.com/your-username/project3)
+### [3. Sorting Algorithm Visualizer](https://github.com/VejayPersaud/VEM-Project3)
 **Tech Stack**: JavaScript, HTML, CSS, Data Structures  
 - Built a browser-based tool to visualize common sorting algorithms like quicksort, mergesort, and heapsort.
 - This project strengthened my understanding of algorithmic efficiency and front-end development.
@@ -77,6 +80,6 @@ With over 6 years of tutoring experience, I specialize in helping students maste
 ## 📫 **Let’s Connect**
 I'm actively seeking internships and part-time roles in **software engineering**, **data science**, and **data engineering**. I'm eager to continue learning, collaborating, and contributing to meaningful projects in these fields!
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [Portfolio](https://yourwebsite.com) • [Email](mailto:your-email@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vejay-persaud/) • [Portfolio](https://vptestsite781484473.wordpress.com/portfolio/) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
