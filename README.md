@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Vejay Persaud
 
-I'm an enthusiastic **Software Engineering** student, aspiring **Data Engineer**, and experienced **Mathematics Tutor** with a unique interdisciplinary background that bridges **technology**, **social science**, and **creativity**. I'm passionate about learning new technologies, solving complex problems, and building solutions that create meaningful impact.
+I'm an enthusiastic **Computer Science** student, aspiring **Microbiome Researcher**, and experienced **Mathematics Tutor** with a unique interdisciplinary background that bridges **technology**, **social science**, and **creativity**. I'm passionate about learning new technologies, solving complex problems, and building solutions that create meaningful impact.
 
 Currently pursuing a **Bachelor of Science in Computer Science** at the University of Florida, I have hands-on experience with software engineering practices, data structures, programming fundamentals, and VR Development in Unity3D. My strong foundation in **problem-solving** and **communication** helps me approach every project with a focus on collaboration and continuous learning.
 
@@ -8,16 +8,16 @@ Currently pursuing a **Bachelor of Science in Computer Science** at the Universi
 ![Pixel art of Lethal Company](averagelethalsession.gif)
 
 ### 🎯 **Current Areas of Focus**:
-- **Software Engineering**: Gaining experience in using Jaeger to trace microservice architecture performance for web applications.
-- **Data Engineering**: Learning how to design and optimize data pipelines and work with large datasets.
+- **Software Engineering**: Gaining experience in deployment of fullstack web apps.
+- **Data Engineering**: Learning how to design and optimize metagenomic data pipelines on University of Florida's HiPerGator.
 - **Data Science Fundamentals**: Exploring projects involving Apache Spark and Amazon Web Services.
-- **Mathematics**: Over 7 years of tutoring experience across a wide range of mathematical subjects, empowering students to build confidence and mastery.
+- **Mathematics**: Over 8 years of tutoring experience across a wide range of mathematical subjects, empowering students to build confidence and mastery.
 
 ---
 
 ## 🚀 **What I'm Currently Working On**
 - **Data Engineering and Software Projects**: Building data pipelines and small-scale software solutions as part of coursework and personal projects.
-- **Exploring Data Science**: Learning about machine learning techniques, data visualization, and working on projects that help me understand the practical applications of data science.
+- **Exploring Data Science**: Learning about transformer architectures, data visualization, and working on applying these techniques to microbiome data.
 - **Mathematics Tutoring**: Continuously helping students improve their mathematical skills, from high school algebra to discrete mathematics and linear algebra.
 
 ---
@@ -47,7 +47,7 @@ Currently pursuing a **Bachelor of Science in Computer Science** at the Universi
 ## 🛠️ **Technical Skills**
 
 ### **Programming Languages**:
-- Python, Java, SQL, JavaScript, C++
+- Python, Java, SQL, JavaScript, C++, R, GoLang
 
 ### **Data Science & Engineering**:
 - Data Structures, Pandas, NumPy, Basic Machine Learning (Scikit-learn), R
@@ -57,28 +57,28 @@ Currently pursuing a **Bachelor of Science in Computer Science** at the Universi
 - Software Development Fundamentals, Version Control (Git)
 - Agile & DevOps practices (SCRUM, CI/CD)
 - Full-Stack Development (JavaScript, Node.js, SQL)
-- Basic understanding of REST APIs, Docker, Unix
+- Basic understanding of REST APIs, GraphQL, Docker, Linux, Kubernetes, AWS, and GCP
 
 ### **Other Tools**:
-- Jupyter, R Studio, AWS (EC2, S3), GCP, Adobe Premiere Pro
+- Jupyter, R Studio, AWS (EC2, S3), GCP Cloud Run and Compute Engine, Adobe Premiere Pro and InDesign
 
 ---
 
 ## 👨‍🏫 **Experience as a Mathematics Tutor**
-With over 7 years of tutoring experience, I specialize in helping students master mathematics concepts across levels. I focus on building student confidence and teaching effective problem-solving strategies in subjects like:
+With over 8 years of tutoring experience, I specialize in helping students master mathematics concepts across levels. I focus on building student confidence and teaching effective problem-solving strategies in subjects like:
 - Algebra, Calculus (AB & BC), Linear Algebra, Multivariable Calculus, Discrete Mathematics
 
 ---
 
 ## 🌱 **Ongoing Learning & Future Goals**
-- **Machine Learning & Data Science**: Continuing to develop my skills in data analysis, predictive modeling, and AI through projects and coursework.
-- **Software Engineering**: Building more advanced software systems, contributing to open-source projects, and improving my understanding of best practices in software development.
+- **Machine Learning & Data Science**: Continuing to develop my skills in data analysis, predictive modeling, and Artificial Intelligence techniques through projects and coursework.
+- **Software Engineering**: Building more advanced software systems and improving my understanding of best practices in software development.
 - **Media & Technology**: Combining my passion for digital media and storytelling with my growing technical skills to create impactful experiences.
 
 ---
 
 ## 📫 **Let’s Connect**
-I'm actively seeking internships and part-time roles in **software engineering**, **data science**, and **data engineering**. I'm eager to continue learning, collaborating, and contributing to meaningful projects in these fields!
+I'm actively seeking internships, part-time, and full-time roles in **software engineering**, **data science**, and **data engineering**. I'm eager to continue learning, collaborating, and contributing to meaningful projects in these fields!
 
 [LinkedIn](https://www.linkedin.com/in/vejay-persaud/) • [Portfolio](https://vptestsite781484473.wordpress.com/portfolio/) 
 
