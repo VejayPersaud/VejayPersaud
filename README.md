@@ -24,20 +24,26 @@ Currently pursuing a **Bachelor of Science in Computer Science** at the Universi
 
 ## 📂 **Highlighted Projects**
 
-### [1. Data Science Final Project](https://github.com/VejayPersaud/ucimlrepo)
+### [1. StickerMule Practice](https://github.com/VejayPersaud/StickerMulePractice)
+**Tech Stack**: Go, Docker, Google Cloud, GraphQL, Redis, Postgres, Grafana, Prometheus, Jaeger 
+- Developed a GraphQL API in Go to support CRUD operations for Store services via structured queries and mutations.
+- Built scalable middleware patterns to separate metrics and business logic to improve maintainability and observability.
+- Developed load generator scripts to simulate traffic to site and visualize performance under stress with custom dashboards in Grafana.
+
+### [2. Data Science Final Project](https://github.com/VejayPersaud/ucimlrepo)
 **Tech Stack**: Python, Scikit-learn, Pandas, R  
 - Evaluated and compared the performance of multiple machine learning models (Neural Networks, SVM, Random Forest, KNN) using metrics such as accuracy, precision, and recall.
 - Led dataset selection and conducted hyperparameter tuning for optimizing model performance.
 - Worked with data preprocessing, transformation, and statistical analysis.
 
-### [2. Software Engineering Project: Probooker](https://github.com/VejayPersaud/ProBooker)
+### [3. Software Engineering Project: Probooker](https://github.com/VejayPersaud/ProBooker)
 **Tech Stack**: JavaScript, HTML, CSS, Node.js, SQL  
 - Participated in a remote group project to develop a full-stack web application, utilizing **Node.js**.
 - Followed **SCRUM** and **AGILE** methodology with two week sprints, daily stand-ups, and backlogs using remote collaboration tools like Figma Jam, Zoom, and Jira to deliver features on time.
 - Practiced **DevOps** with continuous integration and deployment pipelines using GitHub Actions.
 - Designed and implemented database functionality using **SQL** for efficient data management and retrieval.
 
-### [3. Sorting Algorithm Visualizer](https://github.com/VejayPersaud/VEM-Project3)
+### [4. Sorting Algorithm Visualizer](https://github.com/VejayPersaud/VEM-Project3)
 **Tech Stack**: JavaScript, HTML, CSS, Data Structures  
 - Built a browser-based tool to visualize common sorting algorithms like quicksort, mergesort, and heapsort.
 - This project strengthened my understanding of algorithmic efficiency and front-end development.
