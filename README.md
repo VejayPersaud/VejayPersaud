@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Vejay Persaud
 
-I'm an enthusiastic **Computer Science** student, aspiring **Microbiome Researcher**, and experienced **Mathematics Tutor** with a unique interdisciplinary background that bridges **technology**, **social science**, and **creativity**. I'm passionate about learning new technologies, solving complex problems, and building solutions that create meaningful impact.
+I'm an enthusiastic **Computer Science** student, rising **Microbiome Researcher**, and experienced **Mathematics Tutor** with a unique interdisciplinary background that bridges **technology**, **social science**, and **creativity**. I'm passionate about learning new technologies, solving complex problems, and building solutions that create meaningful impact.
 
 Currently pursuing a **Bachelor of Science in Computer Science** at the University of Florida, I have hands-on experience with software engineering practices, data structures, programming fundamentals, and VR Development in Unity3D. My strong foundation in **problem-solving** and **communication** helps me approach every project with a focus on collaboration and continuous learning.
 
