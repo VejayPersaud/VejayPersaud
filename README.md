@@ -2,7 +2,7 @@
 
 I'm an enthusiastic **Computer Science** student, rising **Microbiome Researcher**, and experienced **Mathematics Tutor** with a unique interdisciplinary background that bridges **technology**, **social science**, and **creativity**. I'm passionate about learning new technologies, solving complex problems, and building solutions that create meaningful impact.
 
-Currently pursuing a **Bachelor of Science in Computer Science** at the University of Florida, I have hands-on experience with software engineering practices, data structures, programming fundamentals, and VR Development in Unity3D. My strong foundation in **problem-solving** and **communication** helps me approach every project with a focus on collaboration and continuous learning.
+Currently pursuing a **Bachelor of Science in Computer Science** at the University of Florida, I have hands-on experience with enterprise software engineering practices, data structures, programming fundamentals, as well as computational genomics and microbiology. My strong foundation in **problem-solving** and **communication** helps me approach every project with a focus on collaboration and continuous learning.
 
 
 ![Pixel art of Lethal Company](averagelethalsession.gif)
@@ -11,14 +11,14 @@ Currently pursuing a **Bachelor of Science in Computer Science** at the Universi
 - **Software Engineering**: Gaining experience in deployment of fullstack web apps.
 - **Data Engineering**: Learning how to design and optimize metagenomic data pipelines on University of Florida's HiPerGator.
 - **Data Science Fundamentals**: Exploring projects involving Apache Spark and Amazon Web Services.
-- **Mathematics**: Over 8 years of tutoring experience across a wide range of mathematical subjects, empowering students to build confidence and mastery.
+- **Mathematics**: Over 8 years of tutoring experience from algebra 1 to discrete mathematics, empowering students to build confidence and mastery.
 
 ---
 
 ## 🚀 **What I'm Currently Working On**
 - **Data Engineering and Software Projects**: Building data pipelines and small-scale software solutions as part of coursework and personal projects.
 - **Exploring Data Science**: Learning about transformer architectures, data visualization, and working on applying these techniques to microbiome data.
-- **Mathematics Tutoring**: Continuously helping students improve their mathematical skills, from high school algebra to discrete mathematics and linear algebra.
+- **Mathematics Tutoring**: Continuously helping students improve their mathematical skills and how to interpret and use LLM's to the benefit of the student.
 
 ---
 
